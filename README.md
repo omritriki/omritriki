@@ -7,7 +7,7 @@
 - Power-efficient ECC for on-chip interconnects (Verilog, Spartan-6 FPGA, AES-128, UART) *WIP*
 - BIU Points Calculator – GPA & credit tracker for engineering students (FastAPI, pdfplumber, Jinja2)
 - Smart parking IoT system (React Native, Flask)
-- 
+
 🚀 Passionate about hardware/software co-design and turning complex systems into efficient, real-world solutions.
 
 
