@@ -1,10 +1,14 @@
 ## Hi there 👋
 
-🎓 Final-year Computer Engineering student at Bar-Ilan University and Firmware Intern at Intel.
+🎓 Final-year Computer Engineering student at Bar-Ilan University | Firmware Intern @ Intel
 
-🛠️ Projects include ECC for on-chip links using Verilog/VHDL and a smart parking IoT app with React Native and Flask.
+🛠️ Projects:
 
-🚀 Driven by curiosity and a deep desire to turn complex ideas into practical, impactful solutions.
+- Power-efficient ECC for on-chip interconnects (Verilog, Spartan-6 FPGA, AES-128, UART) *WIP*
+- BIU Points Calculator – GPA & credit tracker for engineering students (FastAPI, pdfplumber, Jinja2)
+- Smart parking IoT system (React Native, Flask)
+- 
+🚀 Passionate about hardware/software co-design and turning complex systems into efficient, real-world solutions.
 
 
 <br>
