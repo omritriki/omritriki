@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 Final-year Computer Engineering student at Bar-Ilan University | Firmware Intern @ Intel
+🎓 Computer Engineering Graduate | Firmware Intern @ Intel
 
 🛠️ Projects:
 
