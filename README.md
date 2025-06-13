@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 Computer Engineering Graduate | Firmware Intern @ Intel
+🎓 Computer Engineering Graduate | Firmware Engineer @ Intel
 
 🛠️ Projects:
 
