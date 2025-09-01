@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 Computer Engineering Graduate | Firmware Engineer @ Intel
+🎓 B.Sc. in Computer Engineering, Bar-Ilan University
 
 🛠️ Projects:
 
